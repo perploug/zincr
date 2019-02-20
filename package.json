@@ -1,7 +1,7 @@
 {
   "name": "4-eyesbot",
   "version": "1.0.0",
-  "description": "A Probot app",
+  "description": "Compliance checking bot",
   "author": "Per Ploug <per.ploug@zalando.de>",
   "license": "MIT",
   "repository": "https://github.com/perploug/4-eyesbot.git",
